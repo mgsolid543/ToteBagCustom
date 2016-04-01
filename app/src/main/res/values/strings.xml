@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToteBagCustom</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_text">Software by : <b>InRelt</b></string>
+    <string name="about_label">About</string>
+    <string name="about_title">Motiviga ToteBag Custom Launcher</string>
+    <string name="main_title">Motiviga - ToteCustomBag</string>
+
+</resources>
